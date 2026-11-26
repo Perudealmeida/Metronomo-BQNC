@@ -1,0 +1,10 @@
+METRÔNOMO BQNC — app para celular
+
+Esta pasta é o app. Para instalar no celular, ela precisa estar num endereço https.
+Jeito mais fácil (grátis, uns 2 minutos):
+1. No computador, abra https://app.netlify.com/drop e crie uma conta grátis.
+2. Arraste esta PASTA inteira (bqnc-app) para a página.
+3. O Netlify dá um endereço tipo https://algum-nome.netlify.app — mande para o celular.
+4. Android (Chrome): abra o endereço > menu ⋮ > "Instalar app".
+   iPhone (Safari): abra o endereço > Compartilhar > "Adicionar à Tela de Início".
+Depois de aberto uma vez, o app funciona sem internet.
